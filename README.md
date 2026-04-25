@@ -10,5 +10,5 @@ this will use the default shell script compiler to run it
 
 It is also recommended to add it to your **.bashrc** as an extra commmand
 ```shell
-echo -e ‘/nalias hsat="/your_path_to_hoststat/"’ >> /.bashrc  
+echo -e ‘\nalias hsat="/your_path_to_hoststat/"’ >> /.bashrc  
 ```
